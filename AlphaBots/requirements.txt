@@ -1,0 +1,6 @@
+django==4.0
+python-telegram-bot==13.8.1
+google-api-python-client==2.33.0
+google-auth-httplib2==0.1.0
+google-auth-oauthlib==0.4.6
+oauth2client==4.1.3
